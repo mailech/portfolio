@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth hidden-scrollbar" data-theme="dark">
+  <head>
+    <script type="module">
+import RefreshRuntime from "/@react-refresh"
+RefreshRuntime.injectIntoGlobalHook(window)
+window.$RefreshReg$ = () => {}
+window.$RefreshSig$ = () => (type) => type
+window.__vite_plugin_react_preamble_installed__ = true
+</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="/src/assets/Logo/vigguLogo.png"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kotiralla Vigneshwari</title>
+    
+  </head>
+  <body class="font-Montserrat max-w-[1900px] mx-auto">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx?t=1753765893997"></script>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "contactCard": [
+    {
+      "image": "../assets/gmail.png",
+      "name": "Gmail",
+      "linkLaptop": "https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=kurbavigneshwari@gmail.com",
+      "linkMobile": "mailto:kurbavigneshwari@gmail.com"
+    },
+
+    {
+      "image": "../assets/whatsapp.png",
+      "name": "Whatsapp",
+      "linkLaptop": "https://wa.me/+917989772865",
+      "linkMobile": "https://wa.me/+91798972865"
+    }
+  ]
+}

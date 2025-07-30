@@ -1,0 +1,22 @@
+[
+  {
+    "image": "https://skillicons.dev/icons?i=nodejs",
+    "name": "Nodejs"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=expressjs",
+    "name": "Expressjs"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=mongodb",
+    "name": "Mongodb"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=sqlite",
+    "name": "SQlite"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=mysql",
+    "name": "Mysql"
+  }
+]

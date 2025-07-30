@@ -1,0 +1,29 @@
+[
+  {
+    "image": "https://skillicons.dev/icons?i=html",
+    "name": "Html5"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=css",
+    "name": "Css3"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=tailwind",
+    "name": "Tailwind"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=bootstrap",
+    "name": "Bootstrap"
+  },
+  {
+    "image": "https://skillicons.dev/icons?i=javascript",
+    "name": "Javascript"
+  },
+
+  {
+    "image": "https://skillicons.dev/icons?i=react",
+    "name": "React"
+  }
+
+
+]
